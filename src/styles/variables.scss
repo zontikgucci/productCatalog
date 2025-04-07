@@ -1,3 +1,4 @@
+// Цвета
 $bg: #fff;
 $bg_loading: #F6F6F9;
 $bg_button: #A73AFD;
@@ -9,3 +10,15 @@ $bg_basket: #f55123;
 $text_black:#000;
 $text_white: #fff;
 $text_purle:#A73AFD;
+$text_white_06:rgba(255,255,255,.6);
+
+// Анимация
+$speed_03: 0.3s;
+
+
+// Контейнер
+.container {
+  max-width: 1220px;
+  margin: 0 auto;
+  padding: 0 10px;
+}
